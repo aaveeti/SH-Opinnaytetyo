@@ -13,7 +13,7 @@ This is a static website developed for nursing students at Metropolia University
 ## Deployment:
 - Hosted with GitHub Pages
 - Made QR-code for the page
-- Link: [press this](aaveeti.github.io/SH-Opinnaytetyo)
+- Link: [Visit the website](aaveeti.github.io/SH-Opinnaytetyo)
 
 ## Made by:
 - aaveeti
